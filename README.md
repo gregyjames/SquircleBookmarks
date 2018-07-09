@@ -6,7 +6,7 @@ A tiny Cydia tweak to allow the user to change the shape of the bookmarks in Saf
 
 1. Add my repo by adding https://hax0rdoge.github.io/repo/ manually.
 2. Refresh sources.
-3. Serch for SquircleBookmarks or navigate to the package through my repo in Cydia.
+3. Search for SquircleBookmarks or navigate to the package through my repo in Cydia.
 4. Install.
 5. Enjoy!
 
